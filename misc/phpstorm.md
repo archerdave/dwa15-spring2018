@@ -75,7 +75,7 @@ The following are the keyboard shortcuts I use most frequently. You should custo
 
 Most important:
 + `Cmd + A`: *Select all*
-+ `Cmd + L`: *Reformat Code*
++ `Cmd + L`: *Reformat Code* *(In PHPStorm 2017.3.4, this is Alt + Cmd + L)*
 + `Shift + Shift`: *Search Everywhere*
 
 Others:
